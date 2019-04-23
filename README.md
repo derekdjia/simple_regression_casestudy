@@ -1,4 +1,4 @@
 # A Simple Regression Case study
 A simple regression case study
 
-![header](img/pg1)
+![header](img/pg1.JPG)
