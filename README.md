@@ -1,5 +1,6 @@
-# A Simple Regression Case study
-A simple regression case study
+# A Simple Regression Case Study: Tractor Auction Pricing
+
+A simple case for beginner data science. Shoutout to Elliot Saslow(https://github.com/Esaslow) for his help!
 
 ![header](img/pg1.JPG)
 ![header](img/pg2.JPG)
