@@ -1,6 +1,8 @@
 # A Simple Regression Case Study: Tractor Auction Pricing
 
-A simple case for beginner data science. Shoutout to Elliot Saslow(https://github.com/Esaslow) for his help!
+A simple, fun case case study for new students of case study. You are given a large dataset with 53 explanatory variables and 400,000 observations to create an accurate regression model. The repository showcases my cohort-best solution with a RMSLE of 0.275. 
+
+Shoutout to Elliot Saslow(https://github.com/Esaslow) for his help!
 
 ![header](img/pg1.JPG)
 ![header](img/pg2.JPG)
