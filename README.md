@@ -1,4 +1,4 @@
-# tractor-auction-price-regression
+# A Simple Regression Case study
 A simple regression case study
 
-![tractor](https://giphy.com/gifs/sister-trust-deere-NcoE7BvcREUGA)
+![header](img/pg1)
